@@ -2,4 +2,4 @@
 
 Hello
 
-Demo video for Git.
+Demo video for Git!
